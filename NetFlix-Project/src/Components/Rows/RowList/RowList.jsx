@@ -40,7 +40,6 @@ const RowList = () => {
                         fetchUrl={requests.fetchDocumentaries}
                         isLargeRow={true}
                   />
-
             </>
       )
 }
