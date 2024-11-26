@@ -12,3 +12,6 @@ const requests = {
 };
 
 export default requests;
+
+
+// https://api.themoviedb.org/3/genre/movie/list?api_key=0418aaea54e8ecca99c4f3f5dfdc8e1c&language=en-US
